@@ -1,0 +1,8 @@
+{
+  "name": "Assistente Jurídico IA Avançado",
+  "description": "Um aplicativo para upload de documentos (PDF, JSON, TXT), criação de base RAG, análise detalhada (resumo, insights, SWOT) e comparação de documentos com um assistente IA Gemini. Respostas vocalizadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}

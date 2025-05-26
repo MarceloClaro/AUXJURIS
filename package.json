@@ -1,0 +1,22 @@
+{
+  "name": "assistente-juridico-ia-com-consulta",
+  "version": "1.0.0",
+  "description": "Assistente Jurídico IA com RAG.",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "echo \"Execute index.html em um servidor estático ou live server.\"",
+    "build:frontend": "echo \"Configurar um bundler como Webpack/Parcel/Vite para build de produção.\""
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-dropzone": "^14.3.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.3",
+    "tailwindcss": "^3.4.4"
+  }
+}
