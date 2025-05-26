@@ -1,0 +1,163 @@
+[
+  {
+    "tipo": "SECAO",
+    "rotulo": "I",
+    "texto": "Seção I – Das Penas Privativas de Liberdade\b��������������������������������������������������20",
+    "pagina": 5,
+    "filhos": []
+  },
+  {
+    "tipo": "SECAO",
+    "rotulo": "II",
+    "texto": "Seção II – Das Penas Restritivas de Direitos\b����������������������������������������������������23",
+    "pagina": 5,
+    "filhos": []
+  },
+  {
+    "tipo": "SECAO",
+    "rotulo": "III",
+    "texto": "Seção III – Da Pena de Multa\b��������������������������������������������������������������������������26",
+    "pagina": 5,
+    "filhos": []
+  },
+  {
+    "tipo": "SECAO",
+    "rotulo": "I",
+    "texto": "Seção I – Dos Crimes contra a Liberdade Pessoal\b�������������������������������������������62",
+    "pagina": 5,
+    "filhos": []
+  },
+  {
+    "tipo": "SECAO",
+    "rotulo": "II",
+    "texto": "Seção II – Dos Crimes contra a Inviolabilidade do Domicílio\b����������������������������66",
+    "pagina": 5,
+    "filhos": []
+  },
+  {
+    "tipo": "SECAO",
+    "rotulo": "III",
+    "texto": "Seção III – Dos Crimes contra a Inviolabilidade de Correspondência\b����������������67",
+    "pagina": 6,
+    "filhos": []
+  },
+  {
+    "tipo": "SECAO",
+    "rotulo": "IV",
+    "texto": "Seção IV – Dos Crimes contra a Inviolabilidade dos Segredos\b�������������������������68",
+    "pagina": 6,
+    "filhos": []
+  },
+  {
+    "tipo": "TITULO",
+    "numero_romano": "I",
+    "texto": "TÍTULO I – Da Aplicação da Lei Penal",
+    "pagina": 10,
+    "filhos": [
+      {
+        "tipo": "ARTIGO",
+        "numero": "1",
+        "caput": "o  Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal. Lei penal no tempo",
+        "pagina": 10,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "2",
+        "caput": "o  Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória. Parágrafo único.  A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado. 11 Decreto-lei no 2.848/1940 Lei excepcional ou temporária",
+        "pagina": 10,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "3",
+        "caput": "o  A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência. Tempo do crime",
+        "pagina": 11,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "4",
+        "caput": "o  Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado. Territorialidade",
+        "pagina": 11,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "5",
+        "caput": "o  Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional.",
+        "pagina": 11,
+        "incisos": [],
+        "paragrafos": [
+          { "rotulo": "1", "texto": "o  Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar." },
+          { "rotulo": "2", "texto": "o  É também aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, achan- do-se aquelas em pouso no território nacional ou em voo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil. Lugar do crime" }
+        ]
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "6",
+        "caput": "o  Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado. 12 Código Penal Extraterritorialidade",
+        "pagina": 11,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "7",
+        "caput": "o  Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro: I – os crimes: a)  contra a vida ou a liberdade do Presidente da República; b)  contra o patrimônio ou a fé pública da União, do Distrito Federal, de Estado, de Território, de Município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo Poder Público; c)  contra a administração pública, por quem está a seu serviço; d)  de genocídio, quando o agente for brasileiro ou domiciliado no Brasil; II – os crimes: a)  que, por tratado ou convenção, o Brasil se obrigou a reprimir; b)  praticados por brasileiro; c)  praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e aí não sejam julgados.",
+        "pagina": 12,
+        "incisos": [],
+        "paragrafos": [
+          { "rotulo": "1", "texto": "o  Nos casos do inciso I, o agente é punido segundo a lei brasileira, ainda que absolvido ou condenado no estrangeiro." },
+          { "rotulo": "2", "texto": "o  Nos casos do inciso II, a aplicação da lei brasileira depende do concurso das seguintes condições: a)  entrar o agente no território nacional; b)  ser o fato punível também no país em que foi praticado; c)  estar o crime incluído entre aqueles pelos quais a lei brasileira auto- riza a extradição; d)  não ter sido o agente absolvido no estrangeiro ou não ter aí cum- prido a pena; e)  não ter sido o agente perdoado no estrangeiro ou, por outro motivo, não estar extinta a punibilidade, segundo a lei mais favorável." },
+          { "rotulo": "3", "texto": "o  A lei brasileira aplica-se também ao crime cometido por estran- geiro contra brasileiro fora do Brasil, se, reunidas as condições previstas no parágrafo anterior: a)  não foi pedida ou foi negada a extradição; b)  houve requisição do Ministro da Justiça. 13 Decreto-lei no 2.848/1940 Pena cumprida no estrangeiro" }
+        ]
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "8",
+        "caput": "o  A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas. Eficácia de sentença estrangeira",
+        "pagina": 13,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "9",
+        "caput": "o  A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas consequências, pode ser homologada no Brasil para: I – obrigar o condenado à reparação do dano, a restituições e a outros efeitos civis; II – sujeitá-lo à medida de segurança. Parágrafo único.  A homologação depende: a)  para os efeitos previstos no inciso I, de pedido da parte interessada; b)  para os outros efeitos, da existência de tratado de extradição com o país de cuja autoridade judiciária emanou a sentença, ou, na falta de tratado, de requisição do Ministro da Justiça. Contagem de prazo",
+        "pagina": 13,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "10",
+        "caput": "O dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum. Frações não computáveis da pena",
+        "pagina": 13,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "11",
+        "caput": "Desprezam-se, nas penas privativas de liberdade e nas restritivas de direitos, as frações de dia, e, na pena de multa, as frações de cruzeiro. Legislação especial",
+        "pagina": 13,
+        "incisos": [],
+        "paragrafos": []
+      },
+      {
+        "tipo": "ARTIGO",
+        "numero": "12",
+        "caput": "As regras gerais deste Código aplicam-se aos fatos incriminados por lei especial, se esta não dispuser de modo diverso. 14 Código Penal",
+        "pagina": 13,
+        "incisos": [],
+        "paragrafos": []
+      }
+    ]
+  }
+  // Estrutura completa do cp8_structured.json
+]

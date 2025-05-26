@@ -1,0 +1,126 @@
+
+[
+  {
+    "tipo": "LIVRO",
+    "numero_romano": "I",
+    "texto": "Do Processo Em Geral",
+    "pagina": 10,
+    "filhos": [
+      {
+        "tipo": "TITULO",
+        "numero_romano": "I",
+        "texto": "Disposições Preliminares",
+        "pagina": 10,
+        "filhos": [
+          {
+            "tipo": "ARTIGO",
+            "numero": "1",
+            "caput": "O processo penal reger-se-á, em todo o território brasileiro, por este Código, ressalvados:",
+            "pagina": 10,
+            "incisos": [
+              { "numeroRomano": "I", "texto": "os tratados, as convenções e regras de direito internacional;" },
+              { "numeroRomano": "II", "texto": "as prerrogativas constitucionais do Presidente da República, dos ministros de Estado, nos crimes conexos com os do Presidente da República, e dos ministros do Supremo Tribunal Federal, nos crimes de responsabilidade (Constituição, arts. 86, 89, § 2o, e 100)1;" },
+              { "numeroRomano": "III", "texto": "os processos da competência da Justiça Militar;" },
+              { "numeroRomano": "IV", "texto": "os processos da competência do tribunal especial (Constituição, art. 122, no 17)2;" },
+              { "numeroRomano": "V", "texto": "os processos por crimes de imprensa.3 1 NE: os artigos mencionados são os da Constituição de 1937. 2 NE: o artigo mencionado é o da Constituição de 1937. 3 NE: ver ADPF no 130." }
+            ],
+            "paragrafos": [
+              { "rotulo": "UNICO", "texto": "Aplicar-se-á, entretanto, este Código aos processos referidos nos nos IV e V, quando as leis especiais que os regulam não dispuserem de modo diverso." }
+            ]
+          },
+          {
+            "tipo": "ARTIGO",
+            "numero": "2",
+            "caput": "A lei processual penal aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.",
+            "pagina": 11
+          },
+          {
+            "tipo": "ARTIGO",
+            "numero": "3",
+            "caput": "A lei processual penal admitirá interpretação extensiva e aplicação analógica, bem como o suplemento dos princípios gerais de direito. Juiz das Garantias",
+            "pagina": 11
+          },
+          {
+            "tipo": "ARTIGO",
+            "numero": "3-A",
+            "caput": "O processo penal terá estrutura acusatória, vedadas a iniciativa do juiz na fase de investigação e a substituição da atuação probatória do órgão de acusação.4",
+            "pagina": 11
+          },
+          {
+            "tipo": "ARTIGO",
+            "numero": "3-B",
+            "caput": "O juiz das garantias é responsável pelo controle da legalidade da investigação criminal e pela salvaguarda dos direitos individuais cuja franquia tenha sido reservada à autorização prévia do Poder Judiciário, competindo-lhe especialmente:5",
+            "pagina": 11,
+            "incisos": [
+              { "numeroRomano": "I", "texto": "receber a comunicação imediata da prisão, nos termos do inciso LXII do caput do art. 5o da Constituição Federal;" },
+              { "numeroRomano": "II", "texto": "receber o auto da prisão em flagrante para o controle da legalidade da prisão, observado o disposto no art. 310 deste Código;" },
+              { "numeroRomano": "III", "texto": "zelar pela observância dos direitos do preso, podendo determinar que este seja conduzido à sua presença, a qualquer tempo;" },
+              { "numeroRomano": "IV", "texto": "ser informado sobre a instauração de qualquer investigação criminal;6" },
+              { "numeroRomano": "V", "texto": "decidir sobre o requerimento de prisão provisória ou outra medida cautelar, observado o disposto no § 1o deste artigo;" },
+              { "numeroRomano": "VI", "texto": "prorrogar a prisão provisória ou outra medida cautelar, bem como substituí-las ou revogá-las, assegurado, no primeiro caso, o exercício do contraditório em audiência pública e oral, na forma do disposto neste Código ou em legislação especial pertinente;7" },
+              { "numeroRomano": "VII", "texto": "decidir sobre o requerimento de produção antecipada de provas consideradas urgentes e não repetíveis, assegurados o contraditório e a ampla defesa em audiência pública e oral;8" },
+              { "numeroRomano": "VIII", "texto": "prorrogar o prazo de duração do inquérito, estando o investigado preso, em vista das razões apresentadas pela autoridade policial e observado o disposto no § 2o deste artigo;9" },
+              { "numeroRomano": "IX", "texto": "determinar o trancamento do inquérito policial quando não houver fundamento razoável para sua instauração ou prosseguimento;10" },
+              { "numeroRomano": "X", "texto": "requisitar documentos, laudos e informações ao delegado de polícia sobre o andamento da investigação;" },
+              { "numeroRomano": "XI", "texto": "decidir sobre os requerimentos de: a) interceptação telefônica, do fluxo de comunicações em sistemas de informática e telemática ou de outras formas de comunicação; b) afastamento dos sigilos fiscal, bancário, de dados e telefônico; c) busca e apreensão domiciliar; d) acesso a informações sigilosas; e) outros meios de obtenção da prova que restrinjam direitos fundamentais do investigado;" },
+              { "numeroRomano": "XII", "texto": "julgar o habeas corpus impetrado antes do oferecimento da denúncia;" },
+              { "numeroRomano": "XIII", "texto": "determinar a instauração de incidente de insanidade mental;" },
+              { "numeroRomano": "XIV", "texto": "decidir sobre o recebimento da denúncia ou queixa, nos termos do art. 399 deste Código;11" },
+              { "numeroRomano": "XV", "texto": "assegurar prontamente, quando se fizer necessário, o direito outorgado ao investigado e ao seu defensor de acesso a todos os elementos informativos e provas produzidos no âmbito da investigação criminal, salvo no que concerne, estritamente, às diligências em andamento;" },
+              { "numeroRomano": "XVI", "texto": "deferir pedido de admissão de assistente técnico para acompanhar a produção da perícia;" },
+              { "numeroRomano": "XVII", "texto": "decidir sobre a homologação de acordo de não persecução penal ou os de colaboração premiada, quando formalizados durante a investigação;" },
+              { "numeroRomano": "XVIII", "texto": "outras matérias inerentes às atribuições definidas no caput deste artigo. 4 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305. 5 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305. 6 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305." }
+            ],
+             "paragrafos": [
+                {"rotulo":"1", "texto": "O preso em flagrante ou por força de mandado de prisão provisória será encaminhado à presença do juiz de garantias no prazo de 24 (vinte e quatro) horas, momento em que se realizará audiência com a presença do Ministério Público e da Defensoria Pública ou de advogado constituído, vedado o emprego de videoconferência.12 7 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305. 8 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305. 9 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305. 10 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305. 11 NE: ver ADIs nos 6.298, 6.299, 6.300 e 6.305."},
+                {"rotulo":"2", "texto": "Se o investigado estiver preso, o juiz das garantias poderá, mediante representação da autoridade policial e ouvido o Ministério Público, prorrogar, uma única vez, a duração do inquérito por até 15 (quinze) dias, após o que, se ainda assim a investigação não for concluída, a prisão será imediatamente relaxada.13"}
+            ]
+          }
+          // ... (demais artigos do Título I)
+        ]
+      }
+      // ... (demais Títulos do Livro I)
+    ]
+  },
+  {
+    "tipo": "LIVRO",
+    "numero_romano": "II",
+    "texto": "Dos Processos Em Espécie",
+    "pagina": 111,
+    "filhos": [
+        // ... (Títulos, Capítulos, Seções e Artigos do Livro II)
+         {
+            "tipo": "TITULO",
+            "numero_romano": "I",
+            "texto": "Do Processo Comum",
+            "pagina": 111,
+            "filhos": [
+                {
+                    "tipo": "CAPITULO",
+                    "numero_romano": "I",
+                    "texto": "Da Instrução Criminal",
+                    "pagina": 111,
+                    "filhos": [
+                        {
+                            "tipo": "ARTIGO",
+                            "numero": "394",
+                            "caput": "O procedimento será comum ou especial.",
+                            "pagina": 111,
+                            "paragrafos": [
+                                { "rotulo":"1", "texto": "O procedimento comum será ordinário, sumário ou sumaríssimo: I – ordinário, quando tiver por objeto crime cuja sanção máxima cominada for igual ou superior a 4 (quatro) anos de pena privativa de liberdade; II – sumário, quando tiver por objeto crime cuja sanção máxima cominada seja inferior a 4 (quatro) anos de pena privativa de liberdade; III – sumaríssimo, para as infrações penais de menor potencial ofensivo, na forma da lei." },
+                                { "rotulo":"2", "texto": "Aplica-se a todos os processos o procedimento comum, salvo disposições em contrário deste Código ou de lei especial." },
+                                { "rotulo":"3", "texto": "Nos processos de competência do Tribunal do Júri, o procedimento observará as disposições estabelecidas nos arts. 406 a 497 deste Código." },
+                                { "rotulo":"4", "texto": "As disposições dos arts. 395 a 398 deste Código aplicam-se a todos os procedimentos penais de primeiro grau, ainda que não regulados neste Código." },
+                                { "rotulo":"5", "texto": "Aplicam-se subsidiariamente aos procedimentos especial, sumário e sumaríssimo as disposições do procedimento ordinário." }
+                            ]
+                        }
+                        // ... (outros artigos deste capítulo)
+                    ]
+                }
+                // ... (outros capítulos deste título)
+            ]
+        }
+    ]
+  }
+  // ... (demais Livros, Títulos, Capítulos, Seções e Artigos do CPP)
+]
