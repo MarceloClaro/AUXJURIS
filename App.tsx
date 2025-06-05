@@ -367,11 +367,22 @@ const App: React.FC = () => {
       }
       
       // Insights (based on original text or its summary)
-      currentInsights = await callGeminiAPIForAnalysis(INSIGHTS_EXTRACTOR_PROMPT_TEMPLATE, textForAnalysis, currentSummary, "Insights");
+      currentInsights = await callGeminiAPIForAnalysis(
+        INSIGHTS_EXTRACTOR_PROMPT_TEMPLATE,
+        textForAnalysis,
+        "Insights",
+        currentSummary
+      );
       addMessageToUi(MessageSender.SYSTEM, `Insights de "${docToAnalyze.name}" gerados e refinados pelo Agente Mestre.`);
 
       // SWOT Analysis (based on original text or its summary, and insights)
-      const swotFullText = await callGeminiAPIForAnalysis(SWOT_ANALYSIS_PROMPT_TEMPLATE, textForAnalysis, currentSummary, currentInsights, "Análise SWOT");
+      const swotFullText = await callGeminiAPIForAnalysis(
+        SWOT_ANALYSIS_PROMPT_TEMPLATE,
+        textForAnalysis,
+        "Análise SWOT",
+        currentSummary,
+        currentInsights
+      );
       addMessageToUi(MessageSender.SYSTEM, `Análise SWOT de "${docToAnalyze.name}" gerada e refinada pelo Agente Mestre.`);
       
       const swotResult: SwotAnalysis = {};
